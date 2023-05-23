@@ -1,0 +1,38 @@
+# Dart learning
+
+En este repo vamos a aprender la sintaxis de Dart
+vamos a partir siempre desde la base
+
+## estructura del repo
+el repo va a estar divido en 3 carpetas en funcion de la dificultad subjetiva del creador sobre Dart
+
+## importante 👀 👇🏽
+practicamente la totalidad del codigo generado en los script de dart va a ser probado en VSCode
+
+pero si no quieres instalar nada usa
+<h4><a ref='https://dart.dev/#try-dart' >DART PAT</a></h4>
+
+## basic
+conceptos basicos del lenguajes
+
+la mayoria de los lenguajes de programacion tienen algun punto de entrada para la aplicacion, Dart no es una excepcion.
+
+```dart
+void main(){
+    print('holita y tal')
+}
+```
+como vemos en el bloque de codigo el punto de entrada es esa funcion de tipo ***void*** llamada ***main***
+
+
+
+
+
+- [librerias](https://dart.dev/guides/libraries/library-tour)
+- [cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
+
+## mid
+superado lo basico vamos a ver un poco de chicha
+
+## advanced
+tecnicas y recomendaciones de la documentacion de dart sobre como escribir un buen codigo
